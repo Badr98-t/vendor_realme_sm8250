@@ -16,7 +16,11 @@
 <permissions>
     <library
         name="com.android.hotwordenrollment.common.util"
+<<<<<<< HEAD:proprietary/product/etc/sysconfig/com.android.hotwordenrollment.common.util.xml
         file="/my_product/framework/com.android.hotwordenrollment.common.util.jar"
+=======
+        file="/system_ext/framework/com.android.hotwordenrollment.common.util.jar"
+>>>>>>> d5f31f9 (sm8250-common: Update proprietary blobs to RMX3370_11.F.13):proprietary/system_ext/etc/permissions/com.android.hotwordenrollment.common.util.xml
     />
 </permissions>
 
